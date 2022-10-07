@@ -1,12 +1,12 @@
 * Fall 2022 - Lab 03
 
-* Last name:
+* Last name: Tolentino
 
-* First name:
+* First name: Ashlee
 
-* GitHub username:
+* GitHub username: ashlee-tolentino
 
-* Notes:
+* Notes: I received an extension to work on this lab through the weekend
 
 
 
